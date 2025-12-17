@@ -1,0 +1,17 @@
+## Validador da tool "Criar Demanda"
+crie uma nova tarefa.
+nome: Fazer o café < Sempre alterar nome da tarefa, seja criativo
+Cliente: Ortho Connect Hub < Sempre alterar cliente da tarefa, alternar entre clientes
+Data de vencimento: 17/12/2025 < Sempre alterar cliente da tarefa, seja criativo
+Responsável: Mirian < Sempre alterar responsável da tarefa, alternar entre Responsáveis
+
+## Validador da tool "Atualizar Demanda"
+Perfeito, agora passa a task-59 para o responsável Claudio
+
+## Validador da tool "Listar clientes"
+Liste nossos clientes.
+
+## Validador da tool "Consultar cliente"
+OK, quais os detalhes do cliente Soluz  < Sempre alternar entre clientes
+
+## Validador da tool "Listar demandas"
